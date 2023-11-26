@@ -1,0 +1,2 @@
+esp32 tx2(G17) -> gps rx
+esp32 rx2(G16) -> gps tx
